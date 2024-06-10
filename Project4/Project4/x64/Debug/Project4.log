@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\tasne\OneDrive\Desktop\Project4\Project4\FileName.cpp(75,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tasne\OneDrive\Desktop\Project4\Project4\FileName.cpp(76,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project4.vcxproj -> C:\Users\tasne\OneDrive\Desktop\Project4\x64\Debug\Project4.exe
